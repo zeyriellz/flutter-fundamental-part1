@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Screenshot hello_world] (assets/images/image.png)
+![Screenshot hello_world](assets/images/image.png)
