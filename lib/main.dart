@@ -104,6 +104,12 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: .center,
           children: [
+            Image.asset(
+            'assets/images/logo_polinema.png',
+            width: 120,
+            height: 120,
+            ),
+            const SizedBox(height: 10),
             const MyTextWidget(),
             const Text('You have pushed the button this many times:'),
             Text(
